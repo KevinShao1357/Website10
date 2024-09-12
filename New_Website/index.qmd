@@ -1,0 +1,11 @@
+---
+title: "Kevin Shao"
+author: "Kevin Shao"
+date: format(Sys.time(), "%d %B %Y")
+abstract: "I am Kevin Shao, an undergraduate student studying mathematics and statistics at Universtiy of Toronto"
+jupyter: ir
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
